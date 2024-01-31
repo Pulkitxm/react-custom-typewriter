@@ -1,6 +1,5 @@
 {
-  "name": "typwewriter",
-  "private": true,
+  "name": "custom-typwewriter",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
